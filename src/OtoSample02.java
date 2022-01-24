@@ -1,15 +1,15 @@
 import jp.jc21.t.yoshizawa.otopika.Otopika;
 
 /**
- *
+ * 
  */
 
 
 /**
- * @author AB2B13
+ * @author t.yoshizawa
  *
  */
-public class OtoSample01  {
+public class OtoSample02  {
 
 	/**
 	 * @param args
@@ -24,15 +24,9 @@ public class OtoSample01  {
 			oto.sleep();
 			oto.lightGreen();
 			oto.sleep();
-			oto.lightGreenYellow();
-			oto.sleep();
 			oto.lightYellow();
 			oto.sleep();
-			oto.lightYellowRed();
-			oto.sleep();
 			oto.lightRed();
-			oto.sleep();
-			oto.lightGreenRed();
 			oto.sleep();
 		}
 
